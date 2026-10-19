@@ -86,6 +86,7 @@
 - [go-agent-skills](https://github.com/eduardo-sl/go-agent-skills) - 28 curated Go skills for code review, concurrency safety, testing, gRPC, and architecture.
 - [hivemind](https://github.com/activeloopai/hivemind) - Auto-generates skills from coding agent session traces for Claude Code, Codex, Cursor, and OpenClaw.
 - [mailtrap-skills](https://github.com/mailtrap/mailtrap-skills) - Agent skills for Mailtrap email sending, sandbox testing, domain setup, and contacts management.
+- [sf-forcepack](https://github.com/PranavNagrecha/sf-forcepack) - Exports a Salesforce org read-only into a local knowledge folder and installs an ask-the-org skill plus 341 Salesforce skills (Apex, Flow, LWC, admin, security).
 
 
 ## 📊 Data & Analysis
